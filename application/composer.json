@@ -1,0 +1,6 @@
+{
+  "require": {
+    "facebook/webdriver": "dev-master",
+    "firebase/php-jwt": "dev-master"
+  }
+}
